@@ -27,7 +27,9 @@
 /*jshint -W030 */
 /*jshint -W084 */
 
-define([] , function( window, noGlobal ) {
+define(function() {
+
+  var noGlobal = true;
 
 // Support: Firefox 18+
 // Can't be in strict mode, several libs including ASP.NET trace
