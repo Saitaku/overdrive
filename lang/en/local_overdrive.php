@@ -16,18 +16,11 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Strings for component 'block_gradeview', language 'en'
+ * Strings for component 'local_overdrive', language 'en'
  *
- * @package   block_gradeview
+ * @package   local_overdrive
  * @copyright Scott Metcalf <saitaku@gmail.com>
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['blockstring'] = 'Block string';
-$string['descconfig'] = 'Description of the config section';
-$string['descfoo'] = 'Config description';
-$string['headerconfig'] = 'Config section header';
-$string['labelfoo'] = 'Config label';
-$string['gradeview:addinstance'] = 'Add a gradeview block';
-$string['gradeview:myaddinstance'] = 'Add a gradeview block to my moodle';
-$string['pluginname'] = 'Grade View';
+$string['pluginname'] = 'Moodle Overdrive';
