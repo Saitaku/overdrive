@@ -19,7 +19,7 @@
 /*jshint -W117 */
 /*jshint -W098 */
 
-  define(['overdrive/jquery2'], function ($) {
+  define(['local_overdrive/jquery2'], function ($) {
     return (function () {
       var $container;
       var listener;

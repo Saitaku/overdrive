@@ -7,7 +7,7 @@
 /*jshint -W101 */
 
 
-define(["overdrive/jquery2"] , function( jQuery, window ) {
+define(["local_overdrive/jquery2"] , function( jQuery, window ) {
 
   +function ($) {
   'use strict';

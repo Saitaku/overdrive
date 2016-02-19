@@ -6541,9 +6541,9 @@ button.close {
   background-color: transparent;
   border: 0;
 }
-.hidden {
-  display: none !important;
-}
+// FPU EDIT ***********************
+// Remove the hidden style and alter it in the overrides/_bootstrap.scss
+// END FPU EDIT *******************
 .affix {
   position: fixed;
 }
